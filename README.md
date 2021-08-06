@@ -1,10 +1,7 @@
-<p>
- <p align="left">
+
 <h1 align="left">Hi 👋, I'm Yukta Gautam</h1>
 <h3 align="left">Full Stack Web Developer</h3>
-</p>
-<p align="right"><img algin="center" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="300" width="300" /> </p>
-<p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuktagautam&label=Profile%20views&color=0e75b6&style=flat" alt="yuktagautam" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuktagautam" alt="yuktagautam" /></a> </p>
